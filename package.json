@@ -1,0 +1,11 @@
+{
+  "name": "repro",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.1",
+    "typescript": "^5.3.2"
+  }
+}
